@@ -81,10 +81,4 @@ You can contact me through the following means:
     <img src="Images/images_preview/12.jpg" alt="Captura de pantalla 12" style="width:150px;">
     <img src="Images/images_preview/13.jpg" alt="Captura de pantalla 13" style="width:150px;">
     <img src="Images/images_preview/14.jpg" alt="Captura de pantalla 14" style="width:150px;">
-    <img src="Images/images_preview/15.jpg" alt="Captura de pantalla 15" style="width:150px;">
-    <img src="Images/images_preview/16.jpg" alt="Captura de pantalla 16" style="width:150px;">
-    <img src="Images/images_preview/17.jpg" alt="Captura de pantalla 17" style="width:150px;">
-    <img src="Images/images_preview/18.jpg" alt="Captura de pantalla 18" style="width:150px;">
-    <img src="Images/images_preview/19.jpg" alt="Captura de pantalla 19" style="width:150px;">
-    <img src="Images/images_preview/20.jpg" alt="Captura de pantalla 20" style="width:150px;">
 </div>
