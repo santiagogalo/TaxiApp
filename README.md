@@ -49,7 +49,7 @@ Here is an additional list of my works and projects:
 
 ### Credits
 
-This project was created and developed by [Santiago Gallo](https://github.com/santiagogalo),Julian Gallo(Laravel, BackEnd) who also came up with the initial prototype.
+This project was created and developed by [Santiago Gallo](https://github.com/santiagogalo), Julian Gallo(Laravel, BackEnd) who also came up with the initial prototype.
 
 ---
 
