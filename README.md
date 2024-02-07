@@ -43,7 +43,7 @@ Here is an additional list of my works and projects:
 
 2. **[TaxiApp](https://github.com/santiagogalo/TaxiApp):** It is an innovative project in your portfolio that represents a mobile application designed specifically for the taxi sector in Colombia.
 
-3. **FinderAlpha:** is the definitive tool for traders, designed to optimize decision making in the dynamic stock market.
+3. **[FinderAlpha](https://github.com/santiagogalo/Finderalpha):** is the definitive tool for traders, designed to optimize decision making in the dynamic stock market.
 
 ---
 
